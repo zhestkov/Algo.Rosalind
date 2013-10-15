@@ -1,4 +1,4 @@
 Algo.Rosalind
 =============
 
-Algorithmic challenges
+Algorithmic challenges from http://algo.rosalind.info/
